@@ -6,7 +6,7 @@
 
 ---
 
-<table border="1" width=45% align=right>
+<table border="1" style="width:40%;" align=right>
 	<thead align=center>
 		<tr>
 			<th scope="col">Project</th>
