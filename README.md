@@ -6,7 +6,7 @@
 
 ---
 
-<table border="1" style="width:40%;" align=right>
+<table border="1" style="max-width:50%;" align=right>
 	<thead align=center>
 		<tr>
 			<th scope="col">Project</th>
@@ -85,8 +85,8 @@
 		<tr>
 			<td><a>miniRT</a> w/<a href="https://github.com/YastMe">abeltran</a></a></td>
 			<td>4</td>
-			<td>UNFINISHED</td>
-			<td>UNFINISHED</td>
+			<td>NOPE</td>
+			<td>NOOPE</td>
 		</tr>
 	</tbody>
 </table>
