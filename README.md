@@ -78,7 +78,7 @@
 	</tbody>
 </table>
 
-<img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=fragarci&theme=github-dark&date_format=j%20M%5B%20Y%5D&border=195572&stroke=006FDD&ring=006FDD&fire=21FF00&currStreakLabel=006FDD&sideLabels=006FDD&currStreakNum=006FDD&sideNums=006FDD&" alt="fragarci" />
+<img style="align:center; width:50%;" src="https://github-readme-streak-stats.herokuapp.com?user=fragarci&theme=github-dark&date_format=j%20M%5B%20Y%5D&border=195572&stroke=006FDD&ring=006FDD&fire=21FF00&currStreakLabel=006FDD&sideLabels=006FDD&currStreakNum=006FDD&sideNums=006FDD&" alt="fragarci" />
 
 <h3 align="center">🚀💻Technologies & Tools</h3>
 <p align="center">
