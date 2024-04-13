@@ -6,7 +6,7 @@
 
 ---
 
-<table border="1" cellpadding="1" cellspacing="1" style="width:48%;" align=right>
+<table border="1" width=45% align=right>
 	<thead align=center>
 		<tr>
 			<th scope="col">Project</th>
@@ -91,7 +91,7 @@
 	</tbody>
 </table>
 
-<img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=fragarci&theme=github-dark&date_format=j%20M%5B%20Y%5D&border=195572&stroke=006FDD&ring=006FDD&fire=21FF00&currStreakLabel=006FDD&sideLabels=006FDD&currStreakNum=006FDD&sideNums=006FDD&" alt="fragarci" />
+<img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=fragarci&theme=github-dark&date_format=j%20M%5B%20Y%5D&border=195572&stroke=006FDD&ring=006FDD&fire=21FF00&currStreakLabel=006FDD&sideLabels=006FDD&currStreakNum=006FDD&sideNums=006FDD&" alt="fragarci" />
 
 <h3 align="center">🚀💻Technologies & Tools</h3>
 <p align="center">
