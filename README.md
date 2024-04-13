@@ -6,6 +6,12 @@
 
 ---
 
+<a href="https://git.io/typing-svg"><img style="width:100%;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=500&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;I'm+fragarci;Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
+
+<p align=center><b>Cybersecurity and low-level programming are my thing</b></p>
+
+---
+
 <table border="1" style="max-width:50%;" align=right>
 	<thead align=center>
 		<tr>
@@ -73,7 +79,7 @@
 		<tr>
 			<td><a>miniRT</a> w/<a href="https://github.com/YastMe">abeltran</a></a></td>
 			<td>4</td>
-			<td>NOPE</td>
+			<td>UNFINISHED</td>
 		</tr>
 	</tbody>
 </table>
@@ -87,6 +93,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![ASSEMBLY](https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the-badge)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -103,6 +111,8 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </p>
 
